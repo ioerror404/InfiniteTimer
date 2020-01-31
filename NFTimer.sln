@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NFTimer", "NFTimer.csproj", "{7B22E9D0-B674-422D-8D4B-6B6BE46970DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B22E9D0-B674-422D-8D4B-6B6BE46970DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B22E9D0-B674-422D-8D4B-6B6BE46970DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B22E9D0-B674-422D-8D4B-6B6BE46970DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B22E9D0-B674-422D-8D4B-6B6BE46970DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96133F5E-D73D-4A56-A169-EE055D7EF9F4}
+	EndGlobalSection
+EndGlobal

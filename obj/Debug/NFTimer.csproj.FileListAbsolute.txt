@@ -1,0 +1,9 @@
+C:\Users\Mr Brains\source\repos\NFTimer\bin\Debug\NFTimer.exe.config
+C:\Users\Mr Brains\source\repos\NFTimer\bin\Debug\NFTimer.exe
+C:\Users\Mr Brains\source\repos\NFTimer\bin\Debug\NFTimer.pdb
+C:\Users\Mr Brains\source\repos\NFTimer\obj\Debug\NFTimer.csprojAssemblyReference.cache
+C:\Users\Mr Brains\source\repos\NFTimer\obj\Debug\NFTimer.Form1.resources
+C:\Users\Mr Brains\source\repos\NFTimer\obj\Debug\NFTimer.Properties.Resources.resources
+C:\Users\Mr Brains\source\repos\NFTimer\obj\Debug\NFTimer.csproj.GenerateResource.cache
+C:\Users\Mr Brains\source\repos\NFTimer\obj\Debug\NFTimer.exe
+C:\Users\Mr Brains\source\repos\NFTimer\obj\Debug\NFTimer.pdb
